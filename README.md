@@ -1,2 +1,8 @@
-# ai-guides
-分享 AI 前沿干货 ｜打破信息壁垒 ｜AI项目实操
+# AI For Beginners
+
+A beginner-friendly guide to learning and using AI.
+
+This repo focuses on:
+- Simple explanations
+- Practical prompts
+- Real-world AI application ideas
