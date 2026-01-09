@@ -1,8 +1,7 @@
 # AI For Beginners
 
-A beginner-friendly guide to learning and using AI.
+一个面向新手的 AI 学习与应用仓库  
+涵盖：概念解释、实用 Prompt、AI 应用场景
 
-This repo focuses on:
-- Simple explanations
-- Practical prompts
-- Real-world AI application ideas
+> 本仓库内容为边学习边整理，持续更新中。
+> 如果你也是 AI 新手，希望这个仓库能帮到你。
